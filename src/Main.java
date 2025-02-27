@@ -9,8 +9,9 @@ public class Main {
         } else {
             bonus = 0;
         }
-int totalamout = amout + bonus;
+        int totalamout = amout + bonus;
         System.out.println("Итоговая сумма счета: " + totalamout);
         System.out.println("Итоговая сумма бонусов: " + bonus);
+
     }
 }
